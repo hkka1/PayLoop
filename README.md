@@ -34,5 +34,5 @@ When the LLM extracts a natural language Alias (e.g., "John"), the Agent invokes
 
 1. **Clone the repository:**
    ```bash
-   git clone git clone https://github.com/hkka1/PayLoop.git
+  git clone https://github.com/hkka1/PayLoop.git
    cd PayLoop
