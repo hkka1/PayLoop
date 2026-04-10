@@ -33,6 +33,16 @@ When the LLM extracts a natural language Alias (e.g., "John"), the Agent invokes
 ## 💻 How to Run Locally
 
 1. **Clone the repository:**
-   ```bash
-  git clone https://github.com/hkka1/PayLoop.git
-   cd PayLoop
+
+```bash
+git clone https://github.com/hkka1/PayLoop.git
+cd PayLoop
+```
+2.**Install dependencies:**
+```bash
+npm install
+```
+3.**Run the Settlement Agent:**
+```bash
+To execute the agent logic and broadcast the transaction to the X Layer Testnet, run:npx ts-node agent/settlement_executor.ts
+```
