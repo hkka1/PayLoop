@@ -30,3 +30,9 @@ When the LLM extracts a natural language Alias (e.g., "John"), the Agent invokes
 5. **Confirm:** Returns the real TxHash, completing the settlement loop.
 
 > **📍 MVP Scope Note:** Our current video demo showcases the core V1 execution (Intent-Transfer via OnchainOS). The full revenue-splitting and continuous loop architecture is ready and expanding.
+## 💻 How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/hkka1/PayLoop.git](https://github.com/hkka1/PayLoop.git)
+   cd PayLoop
